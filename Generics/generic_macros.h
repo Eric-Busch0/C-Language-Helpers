@@ -5,6 +5,6 @@
 
 #define nullstr(str, size) memset(str, '\0', size)
 #define zeroArr(arr, size) memset(arr, 0, size)
-
+#define ONE 1
 #define put_endl printf("\n")
 #endif
